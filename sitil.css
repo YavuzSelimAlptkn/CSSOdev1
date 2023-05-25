@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(12, 24, 15);
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+.AlginMid
+{
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}
+ul
+{
+    list-style-position: none;
+    list-style: none;
+}
+li
+{
+    display: inline;
+}
+h1
+{   
+    color: red;
+}
+
+.ImgOrtala {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
